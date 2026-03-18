@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
+  <id>simpledms_integration</id>
+  <name>SimpleDMS integration</name>
+  <summary>SimpleDMS integration to upload files from Nextcloud to SimpleDMS</summary>
+  <description><![CDATA[
+[SimpleDMS](https://simpledms.eu) integration that adds a files context menu action to upload a file from Nextcloud to SimpleDMS.
+]]>
+  </description>
+  <version>1.0.0</version>
+  <licence>AGPL-3.0-only</licence>
+  <author>Marco Beierer</author>
+  <namespace>SimpleDMS</namespace>
+  <category>files</category>
+  <website>https://simpledms.eu</website>
+  <bugs>https://github.com/simpledms/simpledms-nextcloud/issues</bugs>
+  <repository>https://github.com/simpledms/simpledms-nextcloud</repository>
+
+  <types>
+    <filesystem/>
+  </types>
+
+  <dependencies>
+    <nextcloud min-version="32" max-version="33"/>
+  </dependencies>
+
+  <settings>
+    <admin>OCA\SimpleDMS\Settings\Admin</admin>
+  </settings>
+</info>

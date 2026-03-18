@@ -31,3 +31,13 @@ This app adds a file context-menu action in Nextcloud Files to export a file to 
 
 - Signed URLs are one-time tokens and expire after a short TTL.
 - SimpleDMS backend must be able to reach the Nextcloud public URL to fetch the signed download URL.
+
+## License
+
+Copyright (c) 2026–present Marco Beierer
+
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, version 3 of the License.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License along with this program. If not, see <https://www.gnu.org/licenses/>.

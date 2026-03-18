@@ -2,10 +2,14 @@
 
 This app adds a file context-menu action in Nextcloud Files to export a file to SimpleDMS.
 
-## Supported Nextcloud Versions
+## Supported Nextcloud versions
 
 - 32
 - 33
+
+## Supported SimpleDMS versions
+
+- v1.9.0 and up
 
 ## Install
 
@@ -13,13 +17,13 @@ This app adds a file context-menu action in Nextcloud Files to export a file to 
 2. Enable the app from the Apps screen.
 3. Open **Administration settings** and set **SimpleDMS base URL**.
 
-## Admin Configuration
+## Admin configuration
 
 - Go to: **Administration settings** -> **Additional settings** -> **SimpleDMS Integration**
 - Enter the base URL, for example: `https://simpledms.example.com`
 - Base URL requires HTTPS (HTTP accepted only for localhost development)
 
-## How It Works
+## How it works
 
 1. User right-clicks a file in Nextcloud Files and clicks **Upload to SimpleDMS**.
 2. The app asks Nextcloud backend to create a signed one-time download URL for that file.

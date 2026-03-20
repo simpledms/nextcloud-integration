@@ -20,6 +20,7 @@
   <website>https://simpledms.eu</website>
   <bugs>https://github.com/simpledms/simpledms-nextcloud/issues</bugs>
   <repository>https://github.com/simpledms/simpledms-nextcloud</repository>
+  <screenshot small-thumbnail="https://simpledms.eu/assets/simpledms/screenshots/2026.03.20-screenshot-dateien_details-1024x576.png">https://simpledms.eu/assets/simpledms/screenshots/2026.03.20-screenshot-dateien_details.png</screenshot>
 
   <types>
     <filesystem/>

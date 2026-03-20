@@ -3,7 +3,9 @@
       xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
   <id>simpledms_integration</id>
   <name>SimpleDMS integration</name>
-  <summary>SimpleDMS integration to upload files from Nextcloud to SimpleDMS</summary>
+  <name lang="de">SimpleDMS-Integration</name>
+  <summary lang="en">SimpleDMS integration to upload files from Nextcloud to SimpleDMS</summary>
+  <summary lang="de">SimpleDMS-Integration zum Hochladen von Dateien aus Nextcloud zu SimpleDMS</summary>
   <description lang="en"><![CDATA[
 [SimpleDMS](https://simpledms.eu) integration that adds a files context menu action to upload a file from Nextcloud to SimpleDMS.
 ]]>
@@ -21,6 +23,10 @@
   <bugs>https://github.com/simpledms/simpledms-nextcloud/issues</bugs>
   <repository>https://github.com/simpledms/simpledms-nextcloud</repository>
   <screenshot small-thumbnail="https://simpledms.eu/assets/simpledms/screenshots/2026.03.20-screenshot-dateien_details-1024x576.png">https://simpledms.eu/assets/simpledms/screenshots/2026.03.20-screenshot-dateien_details.png</screenshot>
+  <documentation>
+    <user>https://simpledms.eu/en/resources/documentation/nextcloud-integration</user>
+    <admin>https://simpledms.eu/en/resources/technical-documentation/nextcloud-integration</admin>
+  </documentation>
 
   <types>
     <filesystem/>

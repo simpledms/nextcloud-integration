@@ -13,6 +13,11 @@ This app adds a file context-menu action in Nextcloud Files to export a file to 
 2. Enable the app from the Apps screen.
 3. Open **Administration settings** and set **SimpleDMS base URL**.
 
+## Documentation
+
+- [Admin/technical documentation](https://simpledms.eu/en/resources/technical-documentation/nextcloud-integration)
+- [User documentation](https://simpledms.eu/en/resources/documentation/nextcloud-integration)
+
 ### Admin configuration
 
 - Go to: **Administration settings** -> **Additional settings** -> **SimpleDMS Integration**

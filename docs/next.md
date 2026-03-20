@@ -1,1 +1,9 @@
-multiselection of files
+# SimpleDMS
+
+## AppInfo
+
+- Add screenshot
+
+## Features
+
+- multiselection of files

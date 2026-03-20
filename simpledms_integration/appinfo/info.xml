@@ -4,15 +4,19 @@
   <id>simpledms_integration</id>
   <name>SimpleDMS integration</name>
   <summary>SimpleDMS integration to upload files from Nextcloud to SimpleDMS</summary>
-  <description><![CDATA[
+  <description lang="en"><![CDATA[
 [SimpleDMS](https://simpledms.eu) integration that adds a files context menu action to upload a file from Nextcloud to SimpleDMS.
+]]>
+  </description>
+  <description lang="de"><![CDATA[
+[SimpleDMS](https://simpledms.eu)-Integration, die ein Datei-Kontextmenü zum Hochladen von Dateien aus Nextcloud zu SimpleDMS hinzufügt.
 ]]>
   </description>
   <version>1.0.0</version>
   <licence>AGPL-3.0-only</licence>
-  <author>Marco Beierer</author>
+  <author homepage="https://www.marcobeierer.ch">Marco Beierer</author>
   <namespace>SimpleDMS</namespace>
-  <category>files</category>
+  <category>integration</category>
   <website>https://simpledms.eu</website>
   <bugs>https://github.com/simpledms/simpledms-nextcloud/issues</bugs>
   <repository>https://github.com/simpledms/simpledms-nextcloud</repository>
